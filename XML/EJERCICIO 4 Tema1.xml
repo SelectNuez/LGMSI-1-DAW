@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!-- Indica la version xml asi como la codificacion de caracteres -->
+<ciclo nombre="DAM">
+<elemento>Elemento 1</elemento> 
+<elemento>Elemento 2</elemento>
+<!-- Indico que se trata de un ciclo con nombre DAW siendo esta la raiz en la que ira toda la informacion-->
+    <modulo nombre="Lenguajes de Marcas y Sistemas de Gestión de Información">
+    <!-- Establezco el nombre del modulo para facilitar su busqueda y dejando la base para añadir mas modulos -->
+        <horas_semanales>4</horas_semanales>
+        <!-- Aclaramos las horas semanales y el caracter obligatorio-->
+        <caracter>obligatorio</caracter>
+        <fecha_inicio dia="15" mes="septiembre" año="2010"></fecha_inicio>
+        <!-- Establezco que tiene una fecha de inicio con dicha fecha al igual que la de fin -->
+        <fecha_fin dia="30" mes="junio" año="2011"></fecha_fin>
+        <alumnos>
+        <!-- Abro la etiqueta alumnos en la que iran todos los alumnos -->
+            <alumno nombre="Ana" apellidos="Fernandez Gutierrez">
+            <!-- Se declara el alumno con nombre y apellidos para las busquedas y a continuacion todos sus datos -->
+                <nif>16965696L</nif>
+                <telefono>789654321</telefono>
+                <email>ana.fdezgtrrez@hotmail.com</email>
+                <direccion>C/ El Percebe, 13 de Santander CP 39302</direccion>
+                <faltas/> 
+                <!-- Al estar sin informacion se quedaria "vacia" -->
+                <notas/>
+            </alumno>
+            <!-- Se cierra ese alumno para dar paso al siguiente -->
+            <alumno nombre="Pepito" apellidos="Grillo">
+                <nif>98765432H</nif>
+                <telefono>656566555</telefono>
+                <email>yhyh@yahoo.com</email>
+                <direccion>Avd. El Pez, 5 de Suances CP 39401</direccion>
+                <faltas>0</faltas>
+                <notas>apto</notas>
+            </alumno>
+            <!-- Cerramos el segundo alumno -->
+        </alumnos>
+        <!-- Cerramos la categoria de alumnos -->
+    </modulo>
+    <!-- Cerramos el modulo -->
+</ciclo>
+<!-- Por ultimo cerramos el ciclo que era la raiz -->
+
+

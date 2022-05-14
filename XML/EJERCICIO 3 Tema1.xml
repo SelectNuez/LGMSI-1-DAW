@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>  <!-- Indica la version xml asi como la codificacion de caracteres -->
+<recetas> <!-- Abrimos el elemento raiz en el cual irian todas las recetas -->
+  <receta nombre="Sopa de cebolla" comensales="4">  <!-- Declaramos la primera receta , con el nombre de la misma asi como los comensales para poder buscar mas sencillamente -->
+    <ingredientes>  <!-- Dentro de esta etiqueta iran todos los ingredientes -->
+        <ingrediente nombre="cebolla">  <!-- Declaramos el ingrediente con su nombre para posibilitar su busqueda -->
+          <cantidad> 1kg </cantidad>   <!-- Establecemos la cantidad -->
+        </ingrediente>  <!-- Cerramos ese ingrediente -->
+        <ingrediente nombre="caldo de carne">  <!-- Abrimos el siguiente ingrediente para poder ir listando toda la receta -->
+          <cantidad> 2L </cantidad> 
+        </ingrediente>
+        <ingrediente nombre="mantequilla">
+          <cantidad> 100g </cantidad> 
+        </ingrediente>
+        <ingrediente nombre="harina">
+          <cantidad> 1 cucharada </cantidad> 
+        </ingrediente>
+        <ingrediente nombre="queso emmentalsuizo o gruyere rallado">
+          <cantidad> 100gr </cantidad> 
+        </ingrediente>
+        <ingrediente nombre="pan">
+          <forma> tostado en rebanadas </forma>  <!-- En este caso, ya que no se indica la cantidad he declarado la etiqueta forma para indicar el modo del pan-->
+          <cantidad> al gusto</cantidad>  <!-- Al no tener cantidad lo he dejado como al gusto -->
+        </ingrediente>
+        <ingrediente nombre="tomillo">
+          <cantidad> al gusto </cantidad> 
+        </ingrediente>
+        <ingrediente nombre="laurel">
+          <cantidad> 1 hoja</cantidad> 
+        </ingrediente>
+        <ingrediente nombre="pimienta">
+          <cantidad> al gusto </cantidad> 
+        </ingrediente>
+    </ingredientes>  <!-- Cerramos todos los ingredientes de esta receta -->
+    <procesos>  <!-- Abrimos una etiqueta para explicar los procesos agrupados -->
+        <proceso>  <!-- Voy indicando cada proceso de manera separada -->
+          Pelar y partir las cebollas en rodajas finas.
+        </proceso>
+        <proceso>
+          Rehogarlas con la mantequilla, sal y pimienta a fuego lento hasta que estén transparentes sin dorarse.
+        </proceso>
+        <proceso>
+          Añadir la harina sin dejar de remover
+        </proceso>
+        <proceso>
+        Ponerlo en una cazuela con el caldo, el tomillo y el laurel.
+        </proceso>
+        <proceso>
+        Dejar cocer a fuego lento durante unos 15 minutos.
+        </proceso>
+        <proceso>
+        Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno.
+        </proceso>
+    </procesos> <!-- Cerramos los procesos -->
+
+  </receta> <!-- indicamos el cierre de la receta, aqui debajo se podria iniciar otra receta siguiendo el patron anterior -->
+  
+</recetas> <!-- Por ultimo cerramos el libro de recetas en el elemento raiz, nada podria y despues de esto. -->

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--<!DOCTYPE gasolinaYdiesel SYSTEM "./ejercicio3.dtd">-->
+<!DOCTYPE gasolinaYdiesel>
+<gasolinaYdiesel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ejercicio3.xsd">
+  <item año="2010">
+    <gasolina>gasolina</gasolina>
+    <diesel>diesel</diesel>
+  </item>
+  <item año="2011">
+    <gasolina>gasolina1</gasolina>
+    <diesel>diesel1</diesel>
+  </item>
+</gasolinaYdiesel>

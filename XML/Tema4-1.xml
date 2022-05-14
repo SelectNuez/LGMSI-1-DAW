@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Curriculum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <CV>
+        <nombre></nombre>
+        <apellidos></apellidos>
+        <residencia>
+            <pais></pais>
+            <ciudad></ciudad>
+        </residencia>
+        <datosContacto>
+            <telefono></telefono>
+            <correo></correo>
+            <Linkedin></Linkedin>
+        </datosContacto>
+        <descripcion></descripcion>
+        <competencias>
+            <nombre></nombre>
+            <nivel></nivel>
+        </competencias>
+        <Formacion>
+            <titulacion></titulacion>
+            <centro></centro>
+            <año></año>
+        </Formacion>
+        <Experiencia>
+            <puesto></puesto>
+            <empresa></empresa>
+            <inicio></inicio>
+            <fin></fin>
+        </Experiencia>
+    </CV>
+    
+</Curriculum>
+    

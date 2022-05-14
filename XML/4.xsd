@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="videos" type="datosVideos"/>
+    <xs:complexType name="datosVideos">
+        <xs:sequence>
+            <xs:element name="video" type="video" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="video">
+        
+        <xs:sequence>
+            <xs:element name="nombre" type="xs:string" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="autor" type="xs:string" minOccurs="1" maxOccurs="1"/>
+        </xs:sequence>
+        <xs:attribute name="repro_millones">
+            <xs:simpleType>
+                <xs:restriction base="xs:decimal">
+                    <xs:fractionDigits value="2"/>
+                    <xs:totalDigits value="4"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+</xs:schema>

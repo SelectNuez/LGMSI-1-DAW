@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Creo el elemento torneo y dentro tendra minimo un participante indicado con el +-->
+<!ELEMENT torneo (participante)>
+
+<!-- A sus atributos les indico que es obligatorio tenerlos y que es una cadena de texto y un ID referido ya que es lo que se solicitaba respectivamente -->
+<!ATTLIST torneo 
+edicion CDATA #REQUIRED 
+anteriorGanador IDREF #REQUIRED>
+<!-- En el elemento participante indico que tiene que tener un nombre, una edad, un pais y cabeza de serie es opcional con el ? -->
+<!ELEMENT participante (nombre,edad,pais,cabezaDeSerie?)>
+<!-- Sus atributos son obligatorios y un ID y un ID referido a otro -->
+<!ATTLIST participante
+idP ID #REQUIRED
+pareja IDREF #REQUIRED>
+
+<!-- Por ultimo defino los elementos nombre,edad,pais y cabeza de serie -->
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT edad (#PCDATA)>
+<!ELEMENT pais (#PCDATA)>
+<!ELEMENT cabezaDeSerie (#PCDATA)>

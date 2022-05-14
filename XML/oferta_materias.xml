@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asignaturas>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>FHA</c_materia>
+    <materia>Fundamentos de hardware</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>SRI</c_materia>
+    <materia>Servicios de red e Internet</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>ABD</c_materia>
+    <materia>Administración de sistemas gestores de bases de datos</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>LMS</c_materia>
+    <materia>Lenguajes de marcas y sistemas de gestión de información</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>IAW</c_materia>
+    <materia>Implantación de aplicaciones Web</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>ASO</c_materia>
+    <materia>Administración de sistemas operativos</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>ISO</c_materia>
+    <materia>Implantación de sistemas operativos</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>PAR</c_materia>
+    <materia>Planificación y administración de redes</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>FCT</c_materia>
+    <materia>Formación en centros de trabajo</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>GBD</c_materia>
+    <materia>Gestión de bases de datos</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>FOL</c_materia>
+    <materia>Formación y Orientación Laboral</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>SAD</c_materia>
+    <materia>Seguridad y alta disponibilidad</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>EIE</c_materia>
+    <materia>Empresa e Iniciativa Emprendedora</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PASI</c_materia>
+    <materia>Proyecto de administración de sistemas informáticos en red</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>FHA</c_materia>
+    <materia>Fundamentos de hardware</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>PAR</c_materia>
+    <materia>Planificación y administración de redes</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>IAW</c_materia>
+    <materia>Implantación de aplicaciones Web</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>ABD</c_materia>
+    <materia>Administración de sistemas gestores de bases de datos</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>FCT</c_materia>
+    <materia>Formación en centros de trabajo</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>SRI</c_materia>
+    <materia>Servicios de red e Internet</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>EIE</c_materia>
+    <materia>Empresa e Iniciativa Emprendedora</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>SAD</c_materia>
+    <materia>Seguridad y alta disponibilidad</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PASI</c_materia>
+    <materia>Proyecto de administración de sistemas informáticos en red</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>FOL</c_materia>
+    <materia>Formación y Orientación Laboral</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>LMS</c_materia>
+    <materia>Lenguajes de marcas y sistemas de gestión de información</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>GBD</c_materia>
+    <materia>Gestión de bases de datos</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>ISO</c_materia>
+    <materia>Implantación de sistemas operativos</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>ASO</c_materia>
+    <materia>Administración de sistemas operativos</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>ISO</c_materia>
+    <materia>Implantación de sistemas operativos</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>GBD</c_materia>
+    <materia>Gestión de bases de datos</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>FOL</c_materia>
+    <materia>Formación y Orientación Laboral</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>FHA</c_materia>
+    <materia>Fundamentos de hardware</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>IAW</c_materia>
+    <materia>Implantación de aplicaciones Web</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>FCT</c_materia>
+    <materia>Formación en centros de trabajo</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>EIE</c_materia>
+    <materia>Empresa e Iniciativa Emprendedora</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>ASO</c_materia>
+    <materia>Administración de sistemas operativos</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>ABD</c_materia>
+    <materia>Administración de sistemas gestores de bases de datos</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>SRI</c_materia>
+    <materia>Servicios de red e Internet</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>SAD</c_materia>
+    <materia>Seguridad y alta disponibilidad</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PASI</c_materia>
+    <materia>Proyecto de administración de sistemas informáticos en red</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>PAR</c_materia>
+    <materia>Planificación y administración de redes</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>LMS</c_materia>
+    <materia>Lenguajes de marcas y sistemas de gestión de información</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>FOL</c_materia>
+    <materia>Formación y Orientación Laboral</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>PAR</c_materia>
+    <materia>Planificación y administración de redes</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>SAD</c_materia>
+    <materia>Seguridad y alta disponibilidad</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>FHA</c_materia>
+    <materia>Fundamentos de hardware</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>IAW</c_materia>
+    <materia>Implantación de aplicaciones Web</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>SRI</c_materia>
+    <materia>Servicios de red e Internet</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>ISO</c_materia>
+    <materia>Implantación de sistemas operativos</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PASI</c_materia>
+    <materia>Proyecto de administración de sistemas informáticos en red</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>ABD</c_materia>
+    <materia>Administración de sistemas gestores de bases de datos</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>EIE</c_materia>
+    <materia>Empresa e Iniciativa Emprendedora</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>GBD</c_materia>
+    <materia>Gestión de bases de datos</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>ASO</c_materia>
+    <materia>Administración de sistemas operativos</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>LMS</c_materia>
+    <materia>Lenguajes de marcas y sistemas de gestión de información</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212001</c_estudio>
+    <estudio>Administración de Sistemas Informáticos en Red</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>FCT</c_materia>
+    <materia>Formación en centros de trabajo</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>SINF</c_materia>
+    <materia>Sistemas informáticos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DDI</c_materia>
+    <materia>Desarrollo de interfaces.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>EIE</c_materia>
+    <materia>Empresa e Iniciativa Emprendedora</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>FCT</c_materia>
+    <materia>Formación en centros de trabajo</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PDAM</c_materia>
+    <materia>Proyecto de desarrollo de aplicaciones multiplataforma.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PMDM</c_materia>
+    <materia>Programación multimedia y dispositivos móviles.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PSYP</c_materia>
+    <materia>Programación de servicios y procesos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>SGE</c_materia>
+    <materia>Sistemas de gestión empresarial.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>AAD</c_materia>
+    <materia>Acceso a datos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>BBDD</c_materia>
+    <materia>Bases de datos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>EDD</c_materia>
+    <materia>Entornos de desarrollo.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>FOL</c_materia>
+    <materia>Formación y Orientación Laboral</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>LMSGI</c_materia>
+    <materia>Lenguajes de marcas y sistemas de gestión de información.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>PROG</c_materia>
+    <materia>Programación.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>SINF</c_materia>
+    <materia>Sistemas informáticos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PMDM</c_materia>
+    <materia>Programación multimedia y dispositivos móviles.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PDAM</c_materia>
+    <materia>Proyecto de desarrollo de aplicaciones multiplataforma.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>FOL</c_materia>
+    <materia>Formación y Orientación Laboral</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PSYP</c_materia>
+    <materia>Programación de servicios y procesos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>FCT</c_materia>
+    <materia>Formación en centros de trabajo</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>EDD</c_materia>
+    <materia>Entornos de desarrollo.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>LMSGI</c_materia>
+    <materia>Lenguajes de marcas y sistemas de gestión de información.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DDI</c_materia>
+    <materia>Desarrollo de interfaces.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>AAD</c_materia>
+    <materia>Acceso a datos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>PROG</c_materia>
+    <materia>Programación.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>EIE</c_materia>
+    <materia>Empresa e Iniciativa Emprendedora</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>SGE</c_materia>
+    <materia>Sistemas de gestión empresarial.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>BBDD</c_materia>
+    <materia>Bases de datos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PMDM</c_materia>
+    <materia>Programación multimedia y dispositivos móviles.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PDAM</c_materia>
+    <materia>Proyecto de desarrollo de aplicaciones multiplataforma.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>FCT</c_materia>
+    <materia>Formación en centros de trabajo</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>EIE</c_materia>
+    <materia>Empresa e Iniciativa Emprendedora</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DDI</c_materia>
+    <materia>Desarrollo de interfaces.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>SINF</c_materia>
+    <materia>Sistemas informáticos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>PROG</c_materia>
+    <materia>Programación.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>LMSGI</c_materia>
+    <materia>Lenguajes de marcas y sistemas de gestión de información.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>FOL</c_materia>
+    <materia>Formación y Orientación Laboral</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>EDD</c_materia>
+    <materia>Entornos de desarrollo.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>BBDD</c_materia>
+    <materia>Bases de datos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>AAD</c_materia>
+    <materia>Acceso a datos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>SGE</c_materia>
+    <materia>Sistemas de gestión empresarial.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PSYP</c_materia>
+    <materia>Programación de servicios y procesos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>FOL</c_materia>
+    <materia>Formación y Orientación Laboral</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>EIE</c_materia>
+    <materia>Empresa e Iniciativa Emprendedora</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>BBDD</c_materia>
+    <materia>Bases de datos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>LMSGI</c_materia>
+    <materia>Lenguajes de marcas y sistemas de gestión de información.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DDI</c_materia>
+    <materia>Desarrollo de interfaces.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>EDD</c_materia>
+    <materia>Entornos de desarrollo.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PMDM</c_materia>
+    <materia>Programación multimedia y dispositivos móviles.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>FCT</c_materia>
+    <materia>Formación en centros de trabajo</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>SINF</c_materia>
+    <materia>Sistemas informáticos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>SGE</c_materia>
+    <materia>Sistemas de gestión empresarial.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PDAM</c_materia>
+    <materia>Proyecto de desarrollo de aplicaciones multiplataforma.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>PROG</c_materia>
+    <materia>Programación.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PSYP</c_materia>
+    <materia>Programación de servicios y procesos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212002</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Multiplataforma</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>AAD</c_materia>
+    <materia>Acceso a datos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PDAW</c_materia>
+    <materia>Proyecto de desarrollo de aplicaciones web.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DWEC</c_materia>
+    <materia>Desarrollo web en entorno cliente.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>FOL</c_materia>
+    <materia>Formación y Orientación Laboral</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DIW</c_materia>
+    <materia>Diseño de interfaces web.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DAW</c_materia>
+    <materia>Despliegue de aplicaciones web.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>EDD</c_materia>
+    <materia>Entornos de desarrollo.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>SINF</c_materia>
+    <materia>Sistemas informáticos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>PROG</c_materia>
+    <materia>Programación.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DWES</c_materia>
+    <materia>Desarrollo web en entorno servidor.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>EIE</c_materia>
+    <materia>Empresa e Iniciativa Emprendedora</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>LMSGI</c_materia>
+    <materia>Lenguajes de marcas y sistemas de gestión de información.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>FCT</c_materia>
+    <materia>Formación en centros de trabajo</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>On-line</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>BBDD</c_materia>
+    <materia>Bases de datos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DIW</c_materia>
+    <materia>Diseño de interfaces web.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DWEC</c_materia>
+    <materia>Desarrollo web en entorno cliente.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>SINF</c_materia>
+    <materia>Sistemas informáticos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>FOL</c_materia>
+    <materia>Formación y Orientación Laboral</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DWES</c_materia>
+    <materia>Desarrollo web en entorno servidor.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DAW</c_materia>
+    <materia>Despliegue de aplicaciones web.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>LMSGI</c_materia>
+    <materia>Lenguajes de marcas y sistemas de gestión de información.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>EIE</c_materia>
+    <materia>Empresa e Iniciativa Emprendedora</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>PROG</c_materia>
+    <materia>Programación.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>EDD</c_materia>
+    <materia>Entornos de desarrollo.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>FCT</c_materia>
+    <materia>Formación en centros de trabajo</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>BBDD</c_materia>
+    <materia>Bases de datos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Pruebas Libres</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PDAW</c_materia>
+    <materia>Proyecto de desarrollo de aplicaciones web.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PDAW</c_materia>
+    <materia>Proyecto de desarrollo de aplicaciones web.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>FCT</c_materia>
+    <materia>Formación en centros de trabajo</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>EIE</c_materia>
+    <materia>Empresa e Iniciativa Emprendedora</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DWES</c_materia>
+    <materia>Desarrollo web en entorno servidor.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DWEC</c_materia>
+    <materia>Desarrollo web en entorno cliente.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DIW</c_materia>
+    <materia>Diseño de interfaces web.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>SINF</c_materia>
+    <materia>Sistemas informáticos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>PROG</c_materia>
+    <materia>Programación.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>LMSGI</c_materia>
+    <materia>Lenguajes de marcas y sistemas de gestión de información.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>FOL</c_materia>
+    <materia>Formación y Orientación Laboral</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>EDD</c_materia>
+    <materia>Entornos de desarrollo.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>BBDD</c_materia>
+    <materia>Bases de datos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Oferta Parcial, opción B</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DAW</c_materia>
+    <materia>Despliegue de aplicaciones web.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>BBDD</c_materia>
+    <materia>Bases de datos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>EDD</c_materia>
+    <materia>Entornos de desarrollo.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>FOL</c_materia>
+    <materia>Formación y Orientación Laboral</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>LMSGI</c_materia>
+    <materia>Lenguajes de marcas y sistemas de gestión de información.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>PROG</c_materia>
+    <materia>Programación.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>1</curso>
+    <c_materia>SINF</c_materia>
+    <materia>Sistemas informáticos.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DAW</c_materia>
+    <materia>Despliegue de aplicaciones web.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DIW</c_materia>
+    <materia>Diseño de interfaces web.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DWEC</c_materia>
+    <materia>Desarrollo web en entorno cliente.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>DWES</c_materia>
+    <materia>Desarrollo web en entorno servidor.</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>EIE</c_materia>
+    <materia>Empresa e Iniciativa Emprendedora</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>FCT</c_materia>
+    <materia>Formación en centros de trabajo</materia>
+  </asignatura>
+  <asignatura>
+    <nivel_educativo>Ciclos Formativos de F.P. de Grado Superior</nivel_educativo>
+    <c_estudio>12212003</c_estudio>
+    <estudio>Desarrollo de Aplicaciones Web</estudio>
+    <regimen_matriculacion>Presencial</regimen_matriculacion>
+    <curso>2</curso>
+    <c_materia>PDAW</c_materia>
+    <materia>Proyecto de desarrollo de aplicaciones web.</materia>
+  </asignatura>
+</asignaturas>

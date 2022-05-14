@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Viajes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <viaje>
+        <cliente>
+            <nombre></nombre>
+            <apellidos></apellidos>
+        </cliente>
+        <inicio></inicio>
+        <fin></fin>
+        <origen></origen>
+        <destinos>
+            <destino>
+                <ciudad></ciudad>
+                <hotel></hotel>
+                <noches></noches>
+            </destino>
+            <destino>
+                <ciudad></ciudad>
+                <hotel></hotel>
+                <noches></noches>
+            </destino>
+        </destinos>
+        <precio></precio>
+    </viaje>
+    
+</Viajes>

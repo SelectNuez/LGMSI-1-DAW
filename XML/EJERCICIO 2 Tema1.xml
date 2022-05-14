@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE agenda>
+<agenda>
+  <contacto>
+    <nombre>nombre</nombre>
+    <apellidos>Apellido1 Apellido2</apellidos>
+    <direccion>direccion</direccion>
+    <telefonos>
+       <telefonoFijo>telefonoFijo</telefonoFijo>
+       <telefonoMovil>telefonoMovil</telefonoMovil>
+       <telefonoTrabajo>telefonoTrabajo</telefonoTrabajo>
+    </telefonos>
+  </contacto>
+  <contacto>
+    <nombre>nombre</nombre>
+    <apellidos>Apellido1 Apellido2</apellidos>
+    <direccion>direccion</direccion>
+    <telefonos>
+       <telefonoFijo>telefonoFijo</telefonoFijo>
+       <telefonoMovil>telefonoMovil</telefonoMovil>
+       <telefonoTrabajo>telefonoTrabajo</telefonoTrabajo>
+    </telefonos>
+  </contacto>
+</agenda>

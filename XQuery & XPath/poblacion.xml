@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<poblacion>
+  <descripcion>Población Extranjera Valladolid</descripcion>
+  <pais nombre="BULGARÍA">
+    <n_varon>996</n_varon>
+    <n_mujer>1123</n_mujer>
+  </pais>
+  <pais nombre="RUMANÍA">
+    <n_varon>685</n_varon>
+    <n_mujer>861</n_mujer>
+  </pais>
+  <pais nombre="ITALIA">
+    <n_varon>230</n_varon>
+    <n_mujer>220</n_mujer>
+  </pais>
+  <pais nombre="PORTUGAL">
+    <n_varon>177</n_varon>
+    <n_mujer>116</n_mujer>
+  </pais>
+  <pais nombre="FRANCIA">
+    <n_varon>100</n_varon>
+    <n_mujer>102</n_mujer>
+  </pais>
+  <pais nombre="UCRANIA">
+    <n_varon>78</n_varon>
+    <n_mujer>108</n_mujer>
+  </pais>
+</poblacion>

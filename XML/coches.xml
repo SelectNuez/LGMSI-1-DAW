@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datos_coches>
+  <num_segmentos>3</num_segmentos>
+  <coche ranking="1">
+    <modelo nombre="Fiat 500">
+      <unidades>16568</unidades>
+      <segmento>Urbano</segmento>
+    </modelo>
+  </coche>
+  <coche ranking="2">
+    <modelo nombre="Fiat Panda">
+      <unidades>4152</unidades>
+      <segmento>Urbano</segmento>
+    </modelo> 
+  </coche>
+  <coche ranking="3">
+    <modelo nombre="Kia Picanto">
+      <unidades>4046</unidades>
+      <segmento>Urbano</segmento>
+    </modelo>
+  </coche>
+  <coche ranking="4">
+    <modelo nombre="Hyundai i10">
+      <unidades>3420</unidades>
+      <segmento>Urbano</segmento>
+    </modelo>
+  </coche>
+  <coche ranking="5">
+    <modelo nombre="Toyota Aygo">
+      <unidades>3087</unidades>
+      <segmento>Urbano</segmento>
+    </modelo>
+  </coche>
+  <coche ranking="1">
+    <modelo nombre="Dacia Sandero">
+      <unidades>25284</unidades>
+      <segmento>Utilitario</segmento>
+    </modelo>
+  </coche>
+  <coche ranking="2">
+    <modelo nombre="Renault Clio">
+      <unidades>21264</unidades>
+      <segmento>Utilitario</segmento>
+    </modelo>
+  </coche>
+  <coche ranking="3">
+    <modelo nombre="Seat Ibiza">
+      <unidades>19437</unidades>
+      <segmento>Utilitario</segmento>
+    </modelo>
+  </coche>
+  <coche ranking="4">
+    <modelo nombre="Opel Corsa">
+      <unidades>19043</unidades>
+      <segmento>Utilitario</segmento>
+    </modelo>
+  </coche>
+  <coche ranking="5">
+    <modelo nombre="Citroën C3">
+      <unidades>17447</unidades>
+      <segmento>Utilitario</segmento>
+    </modelo>
+  </coche>
+  <coche ranking="1">
+    <modelo nombre="Seat León">
+      <unidades>27577</unidades>
+      <segmento>Compacto</segmento>
+    </modelo>
+  </coche>
+  <coche ranking="2">
+    <modelo nombre="Volkswagen Golf">
+      <unidades>18231</unidades>
+      <segmento>Compacto</segmento>
+    </modelo>
+  </coche>
+  <coche ranking="3">
+    <modelo nombre="Renault Mégane">
+      <unidades>14792</unidades>
+      <segmento>Compacto</segmento>
+    </modelo>
+  </coche>
+  <coche ranking="4">
+    <modelo nombre="Peugeot 308">
+      <unidades>14059</unidades>
+      <segmento>Compacto</segmento>
+    </modelo>
+  </coche>
+  <coche ranking="5">
+    <modelo nombre="Ford Focus">
+      <unidades>13262</unidades>
+      <segmento>Compacto</segmento>
+    </modelo>
+  </coche>
+</datos_coches>

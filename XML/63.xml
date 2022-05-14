@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:63Formato.xsl"?>
+<CV>
+    <nombre>Jorge</nombre>
+    <apellidos> Martin Nuñez</apellidos>
+    <telefono>665655454</telefono>
+    <correo>asd@gmail.com</correo>
+    <formacion>
+        <titulo>Mantenimiento Electronico</titulo>
+        <centro>Cristo Rey</centro>
+        <añofin>2017</añofin>
+    </formacion>
+    <experiencia>
+        <puestos>
+            <puesto>Tecnico</puesto>
+            <empresa>Esa Misma</empresa>
+            <comienzo>2017</comienzo>
+            <fin>2018</fin>
+        </puestos>
+        <puestos>
+            <puesto>Responsable</puesto>
+            <empresa>Esa Misma</empresa>
+            <comienzo>2018</comienzo>
+            <fin>2019</fin>
+        </puestos>
+    </experiencia>
+</CV>

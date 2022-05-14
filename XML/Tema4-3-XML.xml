@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recetas SYSTEM "Tema4-3.dtd">
+<?xml-stylesheet type="text/xsl" href="file:Tema4-3.xml"?>
+<recetas>
+    <receta nRaciones="5" dificultad="baja">
+        <nombre>Patatas Revolconas</nombre>
+        <ingrediente cantidad="1" unidad="Kg">Patatas</ingrediente>
+        <ingrediente>Pimenton</ingrediente>
+        <ingrediente>Torreznos</ingrediente>
+        <instrucciones>Poner todo y cocinarlo</instrucciones>
+    </receta>
+</recetas>

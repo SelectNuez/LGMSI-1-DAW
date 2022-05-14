@@ -1,0 +1,5 @@
+<!ELEMENT gasolinaYdiesel (item+)>
+<!ELEMENT item (gasolina,diesel)>
+<!ELEMENT gasolina (#PCDATA)>
+<!ELEMENT diesel (#PCDATA)>
+<!ATTLIST item año CDATA #REQUIRED>
